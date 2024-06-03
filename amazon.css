@@ -10,7 +10,7 @@ body{
 .header{
     height:60px;
     width:100%;
-    background-color:#0F1111;
+    background-color:rgb(151, 33, 33);
     display:flex;   
     align-items: center; 
     flex-direction: row;
@@ -76,7 +76,7 @@ h4{
 .scnd-nav{
     height:40px;
    
-    background-color:#222f3d;
+    background-color:#670a19;
     position: absolute;
     margin-top: 42px;
     width:100vw;
@@ -167,7 +167,7 @@ margin-left:550px;
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color:#37475a;
+    background-color:#a93434;
     height:50px;
     width:100vw;
     font-size: small;
@@ -175,11 +175,11 @@ margin-left:550px;
 
 }
 #back a:hover{
-   background-color:#37475a8f;
+   background-color:#d25454;
 }
 .footer{
       height:350px;
-      background-color: #222f3d;
+      background-color: #670a19;
      width:100vw; 
      display: flex;
      justify-content: space-evenly;
@@ -202,7 +202,7 @@ margin-left:550px;
 }
 .footer-2{
     height:100px;
-    background-color:#222f3d;
+    background-color:rgb(151, 33, 33);
     border-top:0.5px solid white;
     display: flex;
     justify-content: center;
