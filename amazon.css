@@ -14,7 +14,7 @@ body{
 .header{
     height:60px;
     width:100%;
-    background-color:#570606;
+    background-color:#0F1111;
     display:flex;   
     align-items: center; 
     flex-direction: row;
@@ -82,7 +82,7 @@ h4{
 .scnd-nav{
     height:40px;
    
-    background-color:#261111;
+    background-color:#222f3d;
     position: absolute;
     margin-top: 42px;
     width:100vw;
@@ -174,7 +174,7 @@ margin-left:550px;
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color:#570606d0;
+    background-color:#37475a;
     height:50px;
     width:100vw;
     font-size: small;
@@ -182,11 +182,11 @@ margin-left:550px;
 
 }
 #back a:hover{
-   background-color:#37475a8f;
+   background-color:#d25454;
 }
 .footer{
       height:350px;
-      background-color:#570606;
+      background-color: #222f3d;
      width:100vw; 
      display: flex;
      justify-content: space-evenly;
@@ -217,7 +217,7 @@ margin-left:550px;
 }
 .footer-2{
     height:100px;
-    background-color:#570606;
+    background-color:#222f3d;
     border-top:0.5px solid white;
     display: flex;
     justify-content: center;
